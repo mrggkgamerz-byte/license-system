@@ -4,5 +4,11 @@
     "key": "Zihad",
     "expirydate": "23-02-2030",
     "Allowoffline": true
+  },
+  {
+    "device_id": "0f98da21c154dc0a",
+    "key": "nirob",
+    "expirydate": "28-02-2029",
+    "Allowoffline": true
   }
 ]
