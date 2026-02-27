@@ -1,8 +1,8 @@
 [
   {
-    "key": "Zihad",
     "device_id": "438ba8f0620466ba",
-    "expirydate": "2030-12-31",
+    "key": "Zihad",
+    "expirydate": "23-02-2030",
     "Allowoffline": true
   }
 ]
